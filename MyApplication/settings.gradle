@@ -1,0 +1,3 @@
+include ':SlidingMenu_master'
+include ':app', ':SlidingMenu-master'
+rootProject.name = "My Application"

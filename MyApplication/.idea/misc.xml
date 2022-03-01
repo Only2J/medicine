@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/bgcolor.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/circle.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/home.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/ic_food_search_24.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/layout_clickbg.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/main_dra.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/my.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/question.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/drawable/textcolor.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_add_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_food.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_knowledge.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_playsvideo.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_register.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_video.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/activity_welcome.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/fragment_blank.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/fragment_blank2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/fragment_blank3.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/item.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/item1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/item2_layout.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/spinner_item.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/MyApplication/app/src/main/res/layout/video_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
